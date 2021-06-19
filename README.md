@@ -8,3 +8,4 @@ npm run dev
 
 Go to localhost:3000
 ```
+Built with ♥ by [Vinod Jatav](https://vinodjatav.tech/)
